@@ -52,8 +52,7 @@ Making AI systems GDPR-compliant by design—not as an afterthought.
 - IT-Högskolan - Secure DevOps Course (12 Dec 2025)
 
 ## 💬 Ask Me About
-How to make AI agents follow GDPR • Building knowledge graphs • Automating data quality checks • My journey from warehouse worker to data engineer • Why data governance matters
-
+How to make AI agents follow GDPR • Building knowledge graphs • Automating data quality checks • My journey from logistics operations to AI infrastructure • Why data governance matters
 
 ## ⚡ Fun Facts
 🧠 Obsessed with learning • 🌍 Improving my English • 🎮 Former VR developer • 💪 Building muscles & models 👌 Driven by discipline & data
