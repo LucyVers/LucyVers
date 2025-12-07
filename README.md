@@ -22,7 +22,7 @@ Open to building together! Especially interested in:
 
 Want to build something? Let's talk!
 
-🚀 Featured Projects
+Featured Projects
 MetaSearch-Pro
 Enterprise metadata search engine | 87.5% faster search
 Node.js MySQL PDF.js
@@ -35,9 +35,9 @@ Neo4j Cypher Visualization
 
 🌱 Currently
 
-🔭 Building production-ready AI projects with governance built-in
-🌱 Exploring enterprise AI frameworks & compliance patterns
-📚 Leveling up my English to communicate technical concepts globally
+Building production-ready AI projects with governance built-in
+Exploring enterprise AI frameworks & compliance patterns
+Leveling up my English to communicate technical concepts globally
 
 
 🎓 Education
