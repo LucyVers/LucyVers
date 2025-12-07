@@ -4,9 +4,11 @@ Currently seeking internship opportunities (Dec 2025 - Apr 2026) where I can con
 
 🎯 What I Focus On
 
-Memory architectures that respect privacy & GDPR
-AI governance frameworks for enterprise deployment
-Graph-based relationship modeling for complex systems
+Security-first architecture - Building systems where data protection isn't an afterthought
+Data resilience & recovery - Ensuring data accessibility and business continuity
+Memory architectures that respect privacy & GDPR from day one
+AI governance frameworks for responsible enterprise deployment
+Graph-based modeling for understanding complex system relationships
 Automated data quality with ML-powered pipelines
 
 
