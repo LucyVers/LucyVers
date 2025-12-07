@@ -12,9 +12,9 @@ Seeking internship opportunities (Dec 2025 - Apr 2026) where I can contribute to
 - Automated data quality with ML-powered pipelines
 
 🎓 Education
-- TUC Yrkeshögskolan - Data Manager Program (Expected May 2026)
+- TUC Yrkeshögskolan - Data Manager Program (30 May 2026)
   
-- IT-Högskolan - Secure DevOps Program (Expected Dec 2025)
+- IT-Högskolan - Secure DevOps Program (12 Dec 2025)
 
 💬 Ask Me About
 How to make AI agents follow GDPR • Building knowledge graphs • Automating data quality checks • My journey from VR to Data Management
