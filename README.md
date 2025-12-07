@@ -1,6 +1,6 @@
 Hi, I'm Lucy Sonberg 👋
-Specializing in data governance meets AI development — because the best AI systems are those built on solid data foundations.
-Currently seeking internship opportunities (Dec 2025 - Apr 2026) where I can contribute to AI infrastructure, data engineering, or governance initiatives.
+Making AI systems GDPR-compliant by design—not as an afterthought.
+Seeking internship opportunities (Dec 2025 - Apr 2026) where I can contribute to AI infrastructure, data engineering, or governance initiatives.
 
 🎯 What I Focus On
 
@@ -10,7 +10,6 @@ Currently seeking internship opportunities (Dec 2025 - Apr 2026) where I can con
 - AI governance frameworks for responsible enterprise deployment
 - Graph-based modeling for understanding complex system relationships
 - Automated data quality with ML-powered pipelines
-
 
 🤝 Looking to Collaborate
 Open to building together! Especially interested in:
@@ -23,6 +22,7 @@ Open to building together! Especially interested in:
 🎓 Education
 TUC Yrkeshögskolan - Data Manager Program (Expected May 2026)
 IT-Högskolan - Secure DevOps Program (Expected Dec 2025)
+
 Recent Certifications:
 Neo4j Fundamentals • AI Engineering Essentials • Prompt Engineering & Generative AI
 
