@@ -12,38 +12,21 @@ Seeking internship opportunities (Dec 2025 - Apr 2026) where I can contribute to
 - Automated data quality with ML-powered pipelines
 
 🛠️ Tech Stack
-Data & AI: Python • Pandas • SQLAlchemy • Machine Learning • NLP • Generative AI
-Databases: PostgreSQL • MySQL • Neo4j • MongoDB
-Development: JavaScript • Node.js • Docker • Git • Azure • CI/CD
-Security & Compliance: GDPR • OWASP • Container Security
-
-- **Data & AI**: Python • Pandas • SQLAlchemy
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-🛠️ Tech Stack
-Data & AI
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Databases
-Show Image
-Show Image
-Show Image
-Show Image
-Development & Cloud
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Security & Compliance
-Show Image
-Show Image
+
+
+![Python](...)
+![Pandas](...)
+![Machine Learning](...)
+![NLP](...)
+![Generative AI](...)
+
+
+
 
 
 
