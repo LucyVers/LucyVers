@@ -11,14 +11,6 @@ Seeking internship opportunities (Dec 2025 - Apr 2026) where I can contribute to
 - Graph-based modeling for understanding complex system relationships
 - Automated data quality with ML-powered pipelines
 
-🤝 Looking to Collaborate
-Open to building together! Especially interested in:
-
-🤖 AI agents with memory systems that respect privacy rules
-📱 Real-world applications solving actual business problems
-🔐 Compliance-first AI - making regulation an advantage, not a blocker
-🌐 Knowledge graphs - because relationships matter
-
 🎓 Education
 TUC Yrkeshögskolan - Data Manager Program (Expected May 2026)
 IT-Högskolan - Secure DevOps Program (Expected Dec 2025)
