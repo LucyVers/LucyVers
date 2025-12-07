@@ -23,6 +23,30 @@ Security & Compliance: GDPR • OWASP • Container Security
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
+🛠️ Tech Stack
+Data & AI
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Databases
+Show Image
+Show Image
+Show Image
+Show Image
+Development & Cloud
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Security & Compliance
+Show Image
+Show Image
+
+
+
 
 
 
