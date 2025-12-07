@@ -4,12 +4,12 @@ Currently seeking internship opportunities (Dec 2025 - Apr 2026) where I can con
 
 🎯 What I Focus On
 
-Security-first architecture - Building systems where data protection isn't an afterthought
-Data resilience & recovery - Ensuring data accessibility and business continuity
-Memory architectures that respect privacy & GDPR from day one
-AI governance frameworks for responsible enterprise deployment
-Graph-based modeling for understanding complex system relationships
-Automated data quality with ML-powered pipelines
+- Security-first architecture - Building systems where data protection isn't an afterthought
+- Data resilience & recovery - Ensuring data accessibility and business continuity
+- Memory architectures that respect privacy & GDPR from day one
+- AI governance frameworks for responsible enterprise deployment
+- Graph-based modeling for understanding complex system relationships
+- Automated data quality with ML-powered pipelines
 
 
 🤝 Looking to Collaborate
@@ -20,26 +20,6 @@ Open to building together! Especially interested in:
 🔐 Compliance-first AI - making regulation an advantage, not a blocker
 🌐 Knowledge graphs - because relationships matter
 
-Want to build something? Let's talk!
-
-Featured Projects
-MetaSearch-Pro
-Enterprise metadata search engine | 87.5% faster search
-Node.js MySQL PDF.js
-AI-driven ETL Pipeline
-Automated data pipeline with ML quality monitoring
-Python Pandas Machine Learning
-Swedish Government Graph DB
-Analyzing political relationships with Neo4j
-Neo4j Cypher Visualization
-
-🌱 Currently
-
-Building production-ready AI projects with governance built-in
-Exploring enterprise AI frameworks & compliance patterns
-Leveling up my English to communicate technical concepts globally
-
-
 🎓 Education
 TUC Yrkeshögskolan - Data Manager Program (Expected May 2026)
 IT-Högskolan - Secure DevOps Program (Expected Dec 2025)
@@ -48,9 +28,6 @@ Neo4j Fundamentals • AI Engineering Essentials • Prompt Engineering & Genera
 
 💬 Ask Me About
 How to make AI agents follow GDPR • Building knowledge graphs • Automating data quality checks • My journey from VR to Data Management
-
-🌐 Connect
-Show Image Show Image Show Image
 
 ⚡ Fun Facts
 🧠 Obsessed with learning • 🌍 Improving my English • 🎮 Former VR developer • ☕ Powered by coffee
