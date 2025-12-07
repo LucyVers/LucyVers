@@ -11,6 +11,12 @@ Seeking internship opportunities (Dec 2025 - Apr 2026) where I can contribute to
 - Graph-based modeling for understanding complex system relationships
 - Automated data quality with ML-powered pipelines
 
+🛠️ Tech Stack
+Data & AI: Python • Pandas • SQLAlchemy • Machine Learning • NLP • Generative AI
+Databases: PostgreSQL • MySQL • Neo4j • MongoDB
+Development: JavaScript • Node.js • Docker • Git • Azure • CI/CD
+Security & Compliance: GDPR • OWASP • Container Security
+
 🎓 Education
 - TUC Yrkeshögskolan - Data Manager Program (30 May 2026)
   
