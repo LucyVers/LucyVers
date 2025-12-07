@@ -49,12 +49,13 @@ Making AI systems GDPR-compliant by design—not as an afterthought.
 ## 🎓 Education
 - TUC Yrkeshögskolan - Data Manager Program (30 May 2026)
   
-- IT-Högskolan - Secure DevOps Program (12 Dec 2025)
+- IT-Högskolan - Secure DevOps Course (12 Dec 2025)
 
 ## 💬 Ask Me About
-How to make AI agents follow GDPR • Building knowledge graphs • Automating data quality checks • My journey from VR to Data Management
+How to make AI agents follow GDPR • Building knowledge graphs • Automating data quality checks • My journey from warehouse worker to data engineer • Why data governance matters
+
 
 ## ⚡ Fun Facts
-🧠 Obsessed with learning • 🌍 Improving my English • 🎮 Former VR developer • ☕ Powered by coffee
+🧠 Obsessed with learning • 🌍 Improving my English • 🎮 Former VR developer • 💪 Building muscles & models 👌 Driven by discipline & data
 
 📍 Stockholm, Sweden 🇸🇪 • she/her • Swedish (native) | English (professional)
