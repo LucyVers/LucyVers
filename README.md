@@ -17,6 +17,15 @@ Databases: PostgreSQL • MySQL • Neo4j • MongoDB
 Development: JavaScript • Node.js • Docker • Git • Azure • CI/CD
 Security & Compliance: GDPR • OWASP • Container Security
 
+- **Data & AI**: Python • Pandas • SQLAlchemy
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+
+
+
 🎓 Education
 - TUC Yrkeshögskolan - Data Manager Program (30 May 2026)
   
