@@ -1,5 +1,5 @@
-Hi, I'm Lucy Sonberg 👋
-Making AI systems GDPR-compliant by design—not as an afterthought.
+## Hi, I'm Lucy Sonberg 👋
+### Making AI systems GDPR-compliant by design—not as an afterthought.
 Seeking internship opportunities (Dec 2025 - Apr 2026) where I can contribute to AI infrastructure, data engineering, or governance initiatives.
 
 🎯 What I Focus On
