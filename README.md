@@ -14,8 +14,9 @@ Making AI systems GDPR-compliant by design—not as an afterthought.
 - Automated data quality with ML-powered pipelines
 
   ## 🎓 Education
-**TUC Yrkeshögskolan** - Data Manager Program (30 May 2026)  
-**IT-Högskolan** - Secure DevOps Course (12 Dec 2025)
+- **TUC Yrkeshögskolan** - Data Manager Program (30 May 2026)  
+- **IT-Högskolan** - Secure DevOps Course (12 Dec 2025)
+
 
 ## 🛠️ Tech Stack
 
