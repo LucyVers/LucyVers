@@ -47,9 +47,9 @@ Making AI systems GDPR-compliant by design—not as an afterthought.
 
 
 ## 💬 Ask Me About
-How to make AI agents follow GDPR • Building knowledge graphs • Automating data quality checks • My journey from logistics operations to AI infrastructure • Why data governance matters
+How to make AI agents follow GDPR • Building knowledge graphs • Automating data quality checks • My journey: 16 years in logistics → VR development → AI infrastructure • Why data governance matters
 
 ## ⚡ Fun Facts
-🧠 Obsessed with learning • 🌍 Improving my English to communicate tech globally • 🎮 Former VR developer • 💪 Building muscles & models 👌 Driven by discipline & data
+🧠 Driven by discipline & data • 🌍 Improving my English to communicate tech globally • 💪 Building muscles & models
 
 📍 Stockholm, Sweden 🇸🇪 • she/her • Swedish (native) |Lucy Sonberg 
