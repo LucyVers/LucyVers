@@ -54,4 +54,16 @@ How to make AI agents follow GDPR • Building knowledge graphs • Automating d
 
 📍 Stockholm, Sweden 🇸🇪 • she/her • Swedish (native) |Lucy Sonberg
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Lucy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucyVers&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucyVers&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
 ![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucyVers&show_icons=true&theme=radical)
