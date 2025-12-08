@@ -45,6 +45,7 @@ Making AI systems GDPR-compliant by design—not as an afterthought.
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![AI Governance](https://img.shields.io/badge/AI_Governance-6B46C1?style=for-the-badge&logo=openai&logoColor=white)
 
+![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucyVers&show_icons=true&theme=radical)
 
 ## 💬 Ask Me About
 How to make AI agents follow GDPR • Building knowledge graphs • Automating data quality checks • My journey: 16 years in logistics → VR development → AI infrastructure • Why data governance matters
@@ -65,5 +66,3 @@ How to make AI agents follow GDPR • Building knowledge graphs • Automating d
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucyVers&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
-![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucyVers&show_icons=true&theme=radical)
