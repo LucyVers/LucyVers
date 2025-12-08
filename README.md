@@ -13,6 +13,10 @@ Making AI systems GDPR-compliant by design—not as an afterthought.
 - Graph-based modeling for understanding complex system relationships
 - Automated data quality with ML-powered pipelines
 
+  ## 🎓 Education
+**TUC Yrkeshögskolan** - Data Manager Program (30 May 2026)  
+**IT-Högskolan** - Secure DevOps Course (12 Dec 2025)
+
 ## 🛠️ Tech Stack
 
 **Data & AI**
@@ -52,4 +56,6 @@ How to make AI agents follow GDPR • Building knowledge graphs • Automating d
 ## ⚡ Fun Facts
 🧠 Driven by discipline & data • 🌍 Improving my English to communicate tech globally • 💪 Building muscles & models
 
-📍 Stockholm, Sweden 🇸🇪 • she/her • Swedish (native) |Lucy Sonberg 
+📍 Stockholm, Sweden 🇸🇪 • she/her • Swedish (native) |Lucy Sonberg
+
+![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucyVers&show_icons=true&theme=radical)
