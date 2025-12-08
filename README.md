@@ -47,6 +47,8 @@ Making AI systems GDPR-compliant by design—not as an afterthought.
 
 ![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucyVers&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucyVers&theme=radical&hide_border=true)
+
 ## 💬 Ask Me About
 How to make AI agents follow GDPR • Building knowledge graphs • Automating data quality checks • My journey: 16 years in logistics → VR development → AI infrastructure • Why data governance matters
 
